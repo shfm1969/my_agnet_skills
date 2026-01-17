@@ -1,0 +1,1 @@
+用來紀錄收集到的AgentSkills
